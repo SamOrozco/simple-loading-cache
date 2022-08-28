@@ -1,3 +1,3 @@
-module loading_cache
+module github.com/SamOrozco/simple-loading-cache
 
 go 1.18
